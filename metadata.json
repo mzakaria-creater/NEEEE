@@ -1,0 +1,6 @@
+{
+  "name": "OnTarget Payment OS",
+  "description": "Premium iOS-designed fintech billing, secure multi-wallet allocation, and automated verification gateway supporting dual English/Arabic languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
